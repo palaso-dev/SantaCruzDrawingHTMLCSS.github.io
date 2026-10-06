@@ -12,4 +12,4 @@ Inspired in a Chiquitania´s Mission from Santa Cruz, this draw was made using o
 - LESS: Css were generated using LESS.
 - Dark mode: Diferents scenarios for dark mode or light mode.
 
-link: https://palaso0.github.io/SantaCruzDrawingHTMLCSS.github.io/
+link: https://palaso-dev.github.io/SantaCruzDrawingHTMLCSS.github.io/
